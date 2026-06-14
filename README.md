@@ -1,2 +1,17 @@
 # CryptoVault
-Multi-chain crypto wallet — BTC, ETH, DOGE, USDT with 0.08% platform fee engine
+A multi-chain crypto wallet application.
+
+## Structure
+- /backend — API functions and blockchain integrations
+- /frontend — UI components
+- /entities — data model schemas
+- /docs — project notes and planning
+
+## Supported Chains (planned)
+- Bitcoin (BTC)
+- Ethereum (ETH)
+- Solana (SOL)
+
+## Status
+🟡 In Progress
+
